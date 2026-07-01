@@ -27,7 +27,7 @@ The analysis successfully uncovered 8 distinct security vulnerabilities across 4
 
 📂 Deliverables Included
 
-* `API_Security_Risk_Analysis_Report.pdf: The complete, client-ready analytical report outlining findings, impacts, and remediation priorities.
-* `/screenshots: Directory containing Postman request/response captures, missing HTTP header proofs from DevTools, and data exposure logs.
+* `API_Security_Risk_Analysis_Report.pdf`: The complete, client-ready analytical report outlining findings, impacts, and remediation priorities.
+* `/screenshots`: Directory containing Postman request/response captures, missing HTTP header proofs from DevTools, and data exposure logs.
 
 *This project was completed as part of the Cyber Security Track (CS) Internship under Future Interns.*
